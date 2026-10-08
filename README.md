@@ -236,4 +236,4 @@ This repository serves as the official landing page for ToYcon. The software is 
 **Get the most recent version of ToYcon today!**
 
 ---
-**Last updated:** 2026-10-07 22:44:05 UTC
+**Last updated:** 2026-10-08 02:31:19 UTC
